@@ -1,0 +1,5 @@
+{
+  "name": "SnapVid - Universal Video Downloader",
+  "description": "A sleek and modern web application to download videos from various platforms like YouTube, TikTok, and more. Just paste the URL and get download links in multiple qualities.",
+  "requestFramePermissions": []
+}
